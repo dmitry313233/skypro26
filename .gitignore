@@ -2,3 +2,4 @@ venv
 .idea
 *.pyc
 __pycharm__
+__trash__
